@@ -9,7 +9,10 @@
   "author": "Andreas Beasley <andreas@sapioweb.com>",
   "license": "MIT",
   "dependencies": {
+    "bugsnag": "^2.3.1",
+    "dotenv": "^5.0.1",
     "ejs": "^2.6.1",
+    "ejs-blocks": "^0.1.4",
     "express": "^4.16.3"
   }
 }
